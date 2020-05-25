@@ -22,9 +22,9 @@ spring:
   redis:
     # 默认配置
     database: 1
-    host: 101.201.140.35
+    host: 101.201.314.35
     port: 6379
-    password: Xtj198817
+    password: AAAA
     timeout: 2000
     lettuce:
       pool:
